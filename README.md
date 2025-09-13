@@ -2,7 +2,7 @@
 - 💻 Python Developer | Backend Enthusiast | Pega CSA & CSSA Certified
 - 🚀 Nearly 2 years of experience in Python Development at Accenture.
 - 🌱 Currently upskilling in Backend System Design, APIs, and Cloud (AWS).
-- 🏆 LeetCode Enthusiast — Solved 150+ DSA problems.
+- 🏆 LeetCode Enthusiast 
 - 📫 Reach me at: [dhiwic467@gmail.com](mailto:dhiwic467@gmail.com)
 
 ---
